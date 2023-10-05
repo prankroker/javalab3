@@ -1,4 +1,4 @@
-package org.example;
+package org.java3;
 
 public class Product {
     private int id;
